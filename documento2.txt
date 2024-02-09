@@ -2,4 +2,8 @@ texto
 cambios
 cambios
 cambios distintos
+<<<<<<< HEAD
 cambios1
+=======
+cambios2
+>>>>>>> mirama
